@@ -1,0 +1,2 @@
+odoo-addon-sale_stock_mto_as_mts_orderpoint @ git+https://github.com/chaule97/stock-logistics-workflow.git@refs/pull/2/head#subdirectory=sale_stock_mto_as_mts_orderpoint
+odoo-addon-stock_product_variant_mto @ git+https://github.com/chaule97/stock-logistics-workflow.git@refs/pull/1/head#subdirectory=stock_product_variant_mto
